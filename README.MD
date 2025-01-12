@@ -2,7 +2,7 @@
 
 Este proyecto es una recreación de un clásico juego de **Blackjack**, inicialmente desarrollado utilizando **JavaScript** puro, ahora modernizado y optimizado con la herramienta de desarrollo **Vite**.
 
-![Imagen del proyecto](public\assets\blackjack.jpg)
+![Imagen del proyecto](public/assets/blackjack.jpg)
 
 ## Objetivo del Proyecto  
 La finalidad de este proyecto es:  
